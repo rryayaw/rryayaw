@@ -8,17 +8,17 @@ I'm a Computer Science student passionate about full-stack development and artif
 
 # 🚀 Recent Projects
 
-**🌱 [TUNAS AI](https://github.com/TUNAS-AI)**
+**🌱 [TUNAS AI](https://github.com/TUNAS-AI)** - 
 An AI-powered harvest-planning platform that helps Indonesian shallot farmers organize their harvesting and drying activities. Farmers can review AI-generated recommendations while staying fully in control of every decision.
 
-**⚽ [ScoutUp](https://github.com/ray-s-org/ScoutUp)**
+**⚽ [ScoutUp](https://github.com/ray-s-org/ScoutUp)** -
 A football scouting platform that uses computer vision to analyze training videos and turn them into helpful performance insights for coaches and scouts.
 
-**🌊 [LAUT](https://github.com/rryayaw/LAUT)**
+**🌊 [LAUT](https://github.com/rryayaw/LAUT)** -
 A full-stack application that combines a modern web experience with intelligent, multi-step AI workflows powered by Google Gemini.
 
-**🚗 [MobilWorth](https://huggingface.co/spaces/rryayaw/MobilWorth)**
-A machine-learning application that estimates the market value of used cars and helps users discover listings that may be priced below their expected value.
+**👤 [Persona Branded Website](https://github.com/rryayaw/Persona-Branded-Website)** - 
+A fan branding website based off the persona game series
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
