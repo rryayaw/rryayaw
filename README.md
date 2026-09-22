@@ -2,22 +2,22 @@
 
 
 # 💫 About Me:
-Hi, I'm **Raivino Margo**! 👋
+Hi, I'm **Ray**! 👋
 
-👨‍💻 About Me<br>I'm a Computer Science student passionate about full-stack development and artificial intelligence. I enjoy building practical, user-friendly applications, exploring intelligent solutions, and continuously improving my skills by solving real-world problems.
+I'm a Computer Science student passionate about full-stack development and artificial intelligence. I enjoy building practical, user-friendly applications, exploring intelligent solutions, and continuously improving my skills by solving real-world problems.
 
 # 🚀 Recent Projects
 
-## 🌱 [TUNAS AI](https://github.com/TUNAS-AI)
+**🌱 [TUNAS AI](https://github.com/TUNAS-AI)**
 An AI-powered harvest-planning platform that helps Indonesian shallot farmers organize their harvesting and drying activities. Farmers can review AI-generated recommendations while staying fully in control of every decision.
 
-## ⚽ [ScoutUp](https://github.com/ray-s-org/ScoutUp)
+**⚽ [ScoutUp](https://github.com/ray-s-org/ScoutUp)**
 A football scouting platform that uses computer vision to analyze training videos and turn them into helpful performance insights for coaches and scouts.
 
-## 🌊 [LAUT](https://github.com/rryayaw/LAUT)
+**🌊 [LAUT](https://github.com/rryayaw/LAUT)**
 A full-stack application that combines a modern web experience with intelligent, multi-step AI workflows powered by Google Gemini.
 
-## 🚗 [MobilWorth](https://huggingface.co/spaces/rryayaw/MobilWorth)
+**🚗 [MobilWorth](https://huggingface.co/spaces/rryayaw/MobilWorth)**
 A machine-learning application that estimates the market value of used cars and helps users discover listings that may be priced below their expected value.
 
 # 💻 Tech Stack:
