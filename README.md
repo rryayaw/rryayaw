@@ -15,7 +15,7 @@ An AI-powered harvest-planning platform that helps Indonesian shallot farmers or
 A football scouting platform that uses computer vision to analyze training videos and turn them into helpful performance insights for coaches and scouts.
 
 **🌊 [LAUT](https://github.com/rryayaw/LAUT)** -
-A full-stack application that combines a modern web experience with intelligent, multi-step AI workflows powered by Google Gemini.
+LAUT is an AI-powered seafood production intelligence platform that combines machine learning, batch-level yield analytics, and WhatsApp integration to detect abnormal production losses and provide actionable, evidence-based investigation recommendations.
 
 **👤 [Persona Branded Website](https://github.com/rryayaw/Persona-Branded-Website)** - 
 A fan branding website based off the persona game series
